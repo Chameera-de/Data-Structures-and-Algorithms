@@ -31,6 +31,7 @@ To get started have a look at our [documentation on contributing](https://github
         <img width="150" height="150" src="assets/Chameera.png">
         <br>
         <a href="https://github.com/Chameera-de">Chameera De Silva</a>
+        <a href="https://github.com/Chameera-de">Harvard BC</a>
       </td>
      </tr>
   </tbody>
